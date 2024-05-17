@@ -35,4 +35,4 @@
 test
 
 # VCD
-.vcd
+*.vcd
