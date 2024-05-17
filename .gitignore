@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Default executable
+test
+
+# VCD
+.vcd
